@@ -1,0 +1,24 @@
+.content {
+    text-align: center;
+}
+
+.p {
+    font-size:21px;
+}
+
+.h1 {
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+
+.ow-break-word {
+    overflow-wrap: break-word;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+    height:600px;  
+}
+
